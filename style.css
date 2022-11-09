@@ -1,0 +1,13 @@
+#grid {
+    margin: 80 auto 0 auto;
+    width: 500px;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+}
+
+
+
+
+
